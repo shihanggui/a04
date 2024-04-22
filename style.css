@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.weather-container, .news-container {
+    flex-basis: 45%;
+    text-align: center;
+}
+
+#weatherResult, #newsResults {
+    margin-top: 20px;
+    text-align: left;
+}

@@ -1,0 +1,6 @@
+#A04
+
+An website application that contains two function: the daily news is shown once the web is refreshed;
+the weather of a specific location entered by location name
+
+In this project, I use two 3rd-party APIs: the weather api provided by openweathermap.org and news api by newsapi.org
